@@ -1,0 +1,7 @@
+Student Name: Vishrut
+Roll Number: 2415001903
+Subject Name: Application Build and Release Automation Lab
+Project Name: Online Course Registration System
+Semester: 5th Sem (CSE - Section A), Odd Semester 2026-27
+Course/Program: B.Tech Computer Science Engineering
+Project Description: A web-based Online Course Registration System that allows students to browse, search, and register for courses each semester, developed collaboratively using Git for version control.
