@@ -1,0 +1,12 @@
+Course Search Module
+
+The module helps students search for available university courses.
+
+Search options:
+1. Course name
+2. Course code
+3. Department
+4. Semester
+5. Faculty name
+
+The search result shows the course title, code, credits, faculty name, and available seats.
