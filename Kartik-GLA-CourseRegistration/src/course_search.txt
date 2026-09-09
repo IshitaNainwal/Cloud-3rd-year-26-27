@@ -1,0 +1,9 @@
+Course Search Module
+
+This module provides course search functionality
+for the Online Course Registration System.
+
+Features:
+- Search courses by course name
+- Search courses by course code
+- Display available course information
