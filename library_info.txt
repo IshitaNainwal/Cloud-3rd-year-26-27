@@ -1,5 +1,5 @@
 Name : Kushagra 
 Roll Number: 2415001887 
 Subject : Applicaton Build and Realease Automation lab 
-Project Name : Online Lib management system 
+Project Name :GLA Online Library Management System 
 Semester: 5th sem
