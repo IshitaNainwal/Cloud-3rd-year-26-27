@@ -1,0 +1,9 @@
+*   dd8a786 Resolve merge conflict by combining book search, issue and return
+|\  
+| * d227a9e Correct project name in original line
+| * 06a28cc Add book issue and return to project scope
+* | 299e4fb Add book search to project scope
+|/  
+* 8c8af63 Add book management module
+* 0f59f06 Add project objective and description
+* 466fe0f Add library project information
