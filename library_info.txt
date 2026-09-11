@@ -3,3 +3,8 @@ Roll Number: 2415001900
 Subject: Application Build and Release Automation Lab
 Project Name: Online Library Management System
 Semester: 5th Semester
+Project Objective:
+To develop an Online Library Management System for managing books and library records efficiently.
+
+Project Description:
+The system will help manage library books and provide basic book management features.
