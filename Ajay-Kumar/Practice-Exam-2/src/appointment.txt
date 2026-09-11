@@ -1,0 +1,13 @@
+Appointment Module
+
+Purpose:
+This module allows students to book and manage campus health appointments easily.
+
+Features:
+1. Book a new health appointment.
+2. View scheduled appointments.
+3. Cancel an existing appointment.
+4. Select preferred appointment date and time.
+
+Expected Users:
+Students and campus health staff.
