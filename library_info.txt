@@ -1,5 +1,10 @@
-Name : Kushagra 
+Name : Kushagra
 Roll Number: 2415001887 
 Subject : Applicaton Build and Realease Automation lab 
-Project Name : Online Lib management system 
-Semester: 5th sem
+Project Name :Advanced Online Library management system
+Semester: 5th sem 
+Project Objective: To develop an efficient Online Library 
+management System for managing books, users and library operations. 
+Project Description: the system will 
+provide functionalities for managing library books, tracking book availability and maintaining library- 
+related information.
