@@ -1,0 +1,11 @@
+Student Name: Kartik Jindal
+Roll Number: 2415000783
+Subject Name: Application Build and Release Automation Lab
+ Project Name: Cloud Based Course Registration System
+
+
+Course/Program Name: B.Tech Computer Science and Engineering
+
+Project Description:
+Online Course Registration System for managing course registration
+and student course information.
