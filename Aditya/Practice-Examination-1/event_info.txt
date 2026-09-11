@@ -1,0 +1,6 @@
+Student Name : Kushagra Agarwal
+ Roll Number : 2415001887 
+Subject Name : Application Build and Release Automation Lab
+ Project Name: Student Event Management System 
+Semester : 5th Semester
+Project Objective: To simplify campus event management and registration.

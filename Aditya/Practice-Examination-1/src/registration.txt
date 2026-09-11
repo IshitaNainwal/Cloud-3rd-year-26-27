@@ -1,0 +1,12 @@
+Event Registration Module
+
+Purpose: 
+Allows Students to register for campus events.
+
+Features:
+1. Student event registration 
+2. Event participant management
+3. Registration confirmation 
+
+Expected Users:
+Students and event coordinators.
