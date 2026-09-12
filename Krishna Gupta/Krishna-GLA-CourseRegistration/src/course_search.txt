@@ -1,0 +1,13 @@
+
+krish@KRISHNA MINGW64 ~/Krishna-GLA-CourseRegistration (course-search)
+$ cat > src/course_search.txt
+
+COURSE SEARCH MODULE
+
+Module Name: Course Search Module
+Purpose: Allows students to search for available courses.
+Features:
+- Search courses by course name
+- Search courses by course code
+- Search courses by department
+- Display available course information

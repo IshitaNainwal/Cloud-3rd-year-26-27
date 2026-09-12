@@ -1,0 +1,7 @@
+Student Name: Ajay Kumar
+Roll Number: 22515990001
+Subject Name: Application Build and Release Automation Lab
+Project Name: GLA Smart Online Course Registration System
+Semester: 5th Semester
+Course/Program Name: B.Tech Computer Science and Engineering
+Project Description: This system allows students to search, select, and register for available university courses online.

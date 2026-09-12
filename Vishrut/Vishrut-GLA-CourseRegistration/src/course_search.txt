@@ -1,0 +1,5 @@
+Course Search Module
+---------------------
+This module allows students to search available courses by name, code,
+department, or instructor. It provides filters for semester and credit
+hours, and returns a list of matching courses with seat availability.

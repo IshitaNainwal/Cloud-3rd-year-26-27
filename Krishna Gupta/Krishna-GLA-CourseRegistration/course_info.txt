@@ -1,0 +1,7 @@
+Student Name: Krishna Gupta
+Roll Number: 22515990004
+Subject Name: Application Build and Release Automation Lab
+Project Name: GLA Course Registration
+Semester: 5th Semester
+Course/Program Name: B.Tech Computer Science and Engineering
+Project Description: Online Course Registration and Management System for GLA students.

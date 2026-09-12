@@ -1,0 +1,9 @@
+Student Name: Ajay Kumar
+Roll Number: 22515990001
+Subject Name: Application Build and Release Automation Lab
+Project Name: GLA Campus Health Appointment System
+Semester: 5th Semester
+
+Project Objective: To provide an easy system for students to book and manage campus health appointments.
+
+Program/Course: B.Tech Computer Science and Engineering
