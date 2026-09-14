@@ -1,0 +1,13 @@
+Name: Vishrut Baliyan
+Roll Number: 2415001903
+Subject: Application Build and Release Automation (BCSE1522)
+Project Name: Online Library Management System
+Semester: 5th Semester
+Project Objective: To develop a system for managing library books, members, and issue/return records.
+ HEAD
+project description: This system automates book issue, return, and inventory tracking for the library.
+
+
+project description: to allow user to add books , track fines , manage returns , and also recoard of members.
+(updated as per q4).
+library-update
