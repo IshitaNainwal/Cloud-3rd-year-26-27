@@ -1,0 +1,9 @@
+Book Management Module
+
+This module handles all book-related operations in the Library Management System.
+
+Features:
+1. Add new books with title, author, and ISBN details.
+2. Search books by title, author, or category.
+3. Track book availability (issued/available status).
+4. Update or delete existing book records.
