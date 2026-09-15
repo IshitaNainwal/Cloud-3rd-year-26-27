@@ -1,0 +1,11 @@
+commit dd8a78698ab5c0c633cfaf87037283c6d783b5eb
+Merge: 299e4fb d227a9e
+Author:     Ajay Kumar <ajaysikarwar9636@gmail.com>
+AuthorDate: Fri Sep 11 14:20:28 2026 +0530
+Commit:     Ajay Kumar <ajaysikarwar9636@gmail.com>
+CommitDate: Fri Sep 11 14:20:28 2026 +0530
+
+    Resolve merge conflict by combining book search, issue and return
+
+ library_info.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)

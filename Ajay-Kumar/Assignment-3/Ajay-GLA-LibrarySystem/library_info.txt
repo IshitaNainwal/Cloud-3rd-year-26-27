@@ -1,0 +1,7 @@
+Name: Ajay Kumar
+Roll Number: 22515990001
+Subject: Application Build and Release Automation Lab
+Project Name: Online Library Management System with Book Search, Issue and Return
+Semester: 5th Semester
+Project Objective: To develop an online library management system for managing books and library records.
+Project Description: The system will help users manage book information, availability, and library operations efficiently.

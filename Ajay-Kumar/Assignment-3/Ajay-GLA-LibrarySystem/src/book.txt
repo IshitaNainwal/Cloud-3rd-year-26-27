@@ -1,0 +1,7 @@
+Book Management Module
+
+Features:
+1. Add new books to the library.
+2. Search and view book details.
+3. Update book information.
+4. Check book availability.
