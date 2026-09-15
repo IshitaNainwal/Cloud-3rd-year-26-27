@@ -1,0 +1,14 @@
+Name: Krishna Gupta
+Roll Number: 22515990004
+Subject: Application Build and Release Automation Lab
+Project Name: GLA Digital Library Management System
+Semester: 5th
+
+Project Objective:
+The objective of this project is to develop an Online Library Management System
+for managing books and library-related information efficiently.
+
+Project Description:
+The system is designed to manage library books and support basic library
+management operations using software development and version control practices.
+

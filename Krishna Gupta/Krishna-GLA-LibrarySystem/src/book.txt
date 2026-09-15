@@ -1,0 +1,10 @@
+Book Management Module
+
+The Book Management Module is used to manage books in the Online Library
+Management System.
+
+Features:
+1. Add new books to the library.
+2. Search books by title or author.
+3. Update book information.
+4. Delete books from the library.
